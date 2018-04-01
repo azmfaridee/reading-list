@@ -9,3 +9,6 @@
 # Debugging & Tuning
 * A Practical Guide for Debugging TensorFlow Codes https://wookayin.github.io/tensorflow-talk-debugging/#1
 * Accelerating deep neural networks with tensor decompositions https://jacobgil.github.io/deeplearning/tensor-decompositions-deep-learning
+* Self-Normalizing Neural Networks https://arxiv.org/abs/1706.02515
+* Group Normalization https://arxiv.org/abs/1803.08494
+
